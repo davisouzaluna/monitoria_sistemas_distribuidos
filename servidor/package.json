@@ -1,0 +1,9 @@
+{
+  "main": "servidor.js",
+  "dependencies": {
+    "mqtt": "^5.10.3"
+  }
+  
+}
+
+
